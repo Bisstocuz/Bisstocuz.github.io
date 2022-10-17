@@ -1,5 +1,5 @@
 languageCode = "zh"
-title = "My Digital Garden"
+title = "涵虚屿"
 theme = "hugo-digital-garden-theme"
 themesDir = "./"
 copyright = "Notealot ©"
@@ -9,29 +9,18 @@ hasCJKLanguage = true
 [params]
 name = "Nigalya Ponya"
 description = "Red panda living in the eastern Himalayas."
-initials = "NP"
+initials = "Notealot"
 googleAnalytics = ""
 
 [[params.social]]
 name = "Twitter"
-link = "#"
+link = "https://twitter.com/notealot"
 icon = "fab fa-twitter"
 
 [[params.social]]
 name = "Github"
-link = "#"
+link = "https://github.com/Bisstocuz"
 icon = "fab fa-github"
-
-[[params.social]]
-name = "Medium"
-link = "#"
-icon = "fab fa-medium-m"
-
-[[params.social]]
-name = "LinkedIn"
-link = "#"
-icon = "fab fa-linkedin-in"
-
 
 [menu]
 [[menu.main]]
