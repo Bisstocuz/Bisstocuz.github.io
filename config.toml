@@ -1,7 +1,7 @@
 languageCode = "zh"
 title = "My Digital Garden"
 theme = "hugo-digital-garden-theme"
-themesdir = "/"
+themesDir = "./"
 copyright = "Notealot ©"
 hasCJKLanguage = true
 
